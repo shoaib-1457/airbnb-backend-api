@@ -1,4 +1,4 @@
-# 🏨 Airbnb Backend API
+# 🏨 Airbnb Backend API 
 
 A backend API for a hotel management and booking platform inspired by Airbnb.  
 This system supports hotel onboarding, room and inventory management, booking flow, payments, and secure user authentication.
